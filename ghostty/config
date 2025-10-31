@@ -1,0 +1,7 @@
+theme = Kanagawa Dragon
+mouse-hide-while-typing = true
+font-size = 25 
+cursor-style-blink = false
+shell-integration-features = no-cursor
+cursor-opacity = 0.8
+cursor-color = #E6E0FF
