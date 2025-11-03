@@ -4,4 +4,6 @@ font-size = 25
 cursor-style-blink = false
 shell-integration-features = no-cursor
 cursor-opacity = 0.8
-cursor-color = #E6E0FF
+cursor-color = #E8E0FF
+macos-titlebar-style = hidden
+gtk-titlebar = false
