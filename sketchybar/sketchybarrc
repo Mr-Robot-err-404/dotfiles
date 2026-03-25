@@ -6,9 +6,9 @@
 PLUGIN_DIR="$CONFIG_DIR/plugins"
 
 ##### Theme Colors #####
-BAR_COLOR=0xff1a1b26
-TEXT_COLOR=0xffbb9af7
-SPACE_BG=0xff24283b
+BAR_COLOR=0xff1f1f28
+TEXT_COLOR=0xffdcd7ba
+SPACE_BG=0xff2a2a37
 
 ##### Bar Appearance #####
 # Configuring the general appearance of the bar.

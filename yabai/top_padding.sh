@@ -2,7 +2,7 @@
 
 case "$1" in
     normal)
-        padding=10
+        padding=8
         ;;
     display)
         padding=40
