@@ -20,6 +20,8 @@ yabai -m rule --add app="^Spotify$" space=media
 yabai -m rule --add app="^Discord$" space=social grid=1:1:0:0:1:1 manage=off
 yabai -m rule --add app="^Steam$" space=games manage=off
 yabai -m rule --add app="^(Calculator|System Preferences|Archive Utility)$" manage=off
+yabai -m rule --add app="^labyrinth_editor$" manage=off
+yabai -m rule --add app="^labyrinth$" manage=off
 yabai -m rule --add app="^mpv$" manage=off border=off sticky=on layer=above opacity=1.0 grid=8:8:6:0:2:2
 
 # signals
